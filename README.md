@@ -1,1 +1,2 @@
 # Calculator
+A simple calculator web application. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division, along with functionality for decimal points and clearing entries. Users can input numbers and perform calculations directly within the browser interface. The design is minimalistic and user-friendly, offering a straightforward experience for performing quick calculations online.
